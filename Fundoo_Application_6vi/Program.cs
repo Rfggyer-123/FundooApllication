@@ -74,6 +74,10 @@ namespace Fundoo_Application_6vi
             builder.Services.AddTransient<IReviewBusiness,ReviewBusinussService>();
             builder.Services.AddTransient<IReviewRepo, ReviewRepoService>();
 
+            //Collab Entity dependency injuction
+            builder.Services.AddTransient<ICollabBusiness, CollabBusiness>();
+            builder.Services.AddTransient<ICollabRepo, CollabRepo>();
+
             builder.Services.AddDbContext<FundooContext>(options => options.UseSqlServer(builder.Configuration["ConnectionString:FundooDb"]));
 
            

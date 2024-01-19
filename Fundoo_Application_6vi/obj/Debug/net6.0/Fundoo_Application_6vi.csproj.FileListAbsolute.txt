@@ -94,3 +94,4 @@ C:\Users\Shivu\source\repos\Fundoo_Application_6vi\Fundoo_Application_6vi\obj\De
 C:\Users\Shivu\source\repos\Fundoo_Application_6vi\Fundoo_Application_6vi\obj\Debug\net6.0\Fundoo_Application_6vi.pdb
 C:\Users\Shivu\source\repos\Fundoo_Application_6vi\Fundoo_Application_6vi\obj\Debug\net6.0\Fundoo_Application_6vi.genruntimeconfig.cache
 C:\Users\Shivu\source\repos\Fundoo_Application_6vi\Fundoo_Application_6vi\obj\Debug\net6.0\ref\Fundoo_Application_6vi.dll
+C:\Users\Shivu\source\repos\Fundoo_Application_6vi\Fundoo_Application_6vi\obj\Debug\net6.0\Fundoo_Application_6vi.sourcelink.json
