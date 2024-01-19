@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Fundoo_Application_6vi.props" />
+</Project>
